@@ -3,7 +3,7 @@
 # requirements= python3,kivy,speechrecognition,pyttsx3,pywhatkit,datetime
 #other instructions: The image "artificial_intelligenence.jpg" must be in the same directory as of the .py file
 
-#USER MANUAL:
+#                                          USER MANUAL:
 # For learning the date or time one can just ask generally
 # for opening a website just "open and name of the page(for websites with .com domain otherwise say open url, url should be like- www.something.in)"
 # for performing a google search just say "search item"
